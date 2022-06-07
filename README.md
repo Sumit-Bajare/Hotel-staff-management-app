@@ -1,3 +1,5 @@
 # Hotel-staff-management-app
 
-This is one minor project which is done during Third Year.In this project I developed an Android Application(APK) for Hotel Administration System.This is helpful to hotel staff to do their work efficiently
+Third year team project based on Android Application. 
+
+This project is an Android Application, Hotel Staff Managemnet Application (APK) for Hotel administration system. Where the manager can track the activity status of his hotel staff and assign them work accordingly. This makes hotel staff management efficient. 
